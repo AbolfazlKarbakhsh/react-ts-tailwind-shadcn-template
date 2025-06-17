@@ -25,5 +25,4 @@ This is a minimal and clean boilerplate for starting your next React project usi
 - ShadCN UI
 - Vite / Next.js *(mention based on your project)*
 
-## 📂 Folder Structure
 
