@@ -23,6 +23,6 @@ This is a minimal and clean boilerplate for starting your next React project usi
 - TypeScript
 - Tailwind CSS
 - ShadCN UI
-- Vite / Next.js *(mention based on your project)*
+- Vite
 
 
